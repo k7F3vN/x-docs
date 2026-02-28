@@ -87,16 +87,16 @@ export default defineConfig({
                     text: '其他',
                     collapsed: true,
                     items: [
-                        {text: 'Git', link: '/docs/keep/tool/Git'},
-                        {text: 'Nginx', link: '/docs/keep/tool/Nginx'},
-                        {text: 'Maven', link: '/docs/keep/tool/Maven'},
-                        {text: 'Docker', link: '/docs/keep/tool/Docker'},
-                        {text: 'Arthas', link: '/docs/keep/tool/Arthas'},
-                        {text: 'FFmpeg', link: '/docs/keep/tool/FFmpeg'},
-                        {text: 'YT-DLP', link: '/docs/keep/tool/YT-DLP'},
-                        {text: 'Homebrew', link: '/docs/keep/tool/Homebrew'},
-                        {text: 'NVM/Volta', link: '/docs/keep/tool/NVM-Volta'},
-                        {text: 'WordPress', link: '/docs/keep/tool/WordPress'},
+                        {text: 'Git', link: '/docs/keep/otheer/Git'},
+                        {text: 'Nginx', link: '/docs/keep/otheer/Nginx'},
+                        {text: 'Maven', link: '/docs/keep/otheer/Maven'},
+                        {text: 'Docker', link: '/docs/keep/otheer/Docker'},
+                        {text: 'Arthas', link: '/docs/keep/otheer/Arthas'},
+                        {text: 'FFmpeg', link: '/docs/keep/otheer/FFmpeg'},
+                        {text: 'YT-DLP', link: '/docs/keep/otheer/YT-DLP'},
+                        {text: 'Homebrew', link: '/docs/keep/otheer/Homebrew'},
+                        {text: 'NVM/Volta', link: '/docs/keep/otheer/NVM-Volta'},
+                        {text: 'WordPress', link: '/docs/keep/otheer/WordPress'},
                     ]
                 },
             ],
@@ -107,10 +107,6 @@ export default defineConfig({
                     items: [
                         {text: '总结', link: '/docs/timeline/summary'},
                     ]
-                },
-                {
-                    text: '20251225',
-                    link: '/christmas.html'
                 },
             ]
         },
