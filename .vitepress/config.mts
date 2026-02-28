@@ -72,15 +72,15 @@ export default defineConfig({
                     text: '开发语言',
                     collapsed: true,
                     items: [
-                        {text: 'Java', link: '/docs/keep/language/Java'},
-                        {text: 'Python', link: '/docs/keep/language/Python'},
+                        {text: 'Go', link: '/docs/keep/language/Go'},
+                        {text: 'PHP', link: '/docs/keep/language/PHP'},
                     ]
                 },
                 {
                     text: '消息队列',
                     collapsed: true,
                     items: [
-                        {text: 'Kafka', link: '/docs/keep/mq/kafka'},
+                        {text: 'Kafka', link: '/docs/keep/message/kafka'},
                     ]
                 },
                 {
